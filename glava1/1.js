@@ -1,0 +1,13 @@
+console.log(0 + NaN);
+console.log(0 + Infinity);
+console.log(0 + false);
+console.log(0 + true);
+console.log(0 + null);
+console.log(0 + undefined);
+console.log('-------');
+console.log('' + Infinity);
+console.log('' + NaN);
+console.log('' + false);
+console.log('' + true);
+console.log('' + null);
+console.log('' + undefined);
